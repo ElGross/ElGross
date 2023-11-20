@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ElGross
-- 👀 I’m interested in aprender.
+- 👀 I’m interested in learning.
 - 🌱 I’m currently learning Javascript.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
