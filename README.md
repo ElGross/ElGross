@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Elza
+- 👋 Hi, I’m @Ellgros
 - 👀 I’m interested in learning.
 - 🌱 I’m currently learning Javascript.
 - 💞️ I’m looking to collaborate on ...
